@@ -1,0 +1,15 @@
+/home/rodica/Desktop/test2/bin/Debug/net6.0/test2
+/home/rodica/Desktop/test2/bin/Debug/net6.0/test2.deps.json
+/home/rodica/Desktop/test2/bin/Debug/net6.0/test2.runtimeconfig.json
+/home/rodica/Desktop/test2/bin/Debug/net6.0/test2.dll
+/home/rodica/Desktop/test2/bin/Debug/net6.0/test2.pdb
+/home/rodica/Desktop/test2/obj/Debug/net6.0/test2.csproj.AssemblyReference.cache
+/home/rodica/Desktop/test2/obj/Debug/net6.0/test2.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodica/Desktop/test2/obj/Debug/net6.0/test2.AssemblyInfoInputs.cache
+/home/rodica/Desktop/test2/obj/Debug/net6.0/test2.AssemblyInfo.cs
+/home/rodica/Desktop/test2/obj/Debug/net6.0/test2.csproj.CoreCompileInputs.cache
+/home/rodica/Desktop/test2/obj/Debug/net6.0/test2.dll
+/home/rodica/Desktop/test2/obj/Debug/net6.0/refint/test2.dll
+/home/rodica/Desktop/test2/obj/Debug/net6.0/test2.pdb
+/home/rodica/Desktop/test2/obj/Debug/net6.0/test2.genruntimeconfig.cache
+/home/rodica/Desktop/test2/obj/Debug/net6.0/ref/test2.dll
